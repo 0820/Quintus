@@ -4,4 +4,4 @@
 ------------------
 [Convert Sorted List to Balanced Binary Search Tree (BST)] (http://articles.leetcode.com/2010/11/convert-sorted-list-to-balanced-binary.html)
 ---------------------
-此处讨论了top-down和bottom-up的区别，不过是基于树来说的
+此处讨论了递归中top-down和bottom-up的区别，不过是基于树来说的
