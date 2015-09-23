@@ -1,6 +1,25 @@
 #I
 
 ```
+public boolean wordBreak(String s, Set<String> wordDict) {
+    int l = s.length();
+    boolean[] t = new boolean[l+1];
+    t[0] = true;
+    
+    for (int i = 0; i < l; i++) {
+        if(!t[i]) continue;
+        
+        for (String a : wordDict) {
+            int c = a.length();
+            int e = i + c;
+            if (e > l) continue;
+            if (t[e]) continue;
+            if (s.substring(i,e).equals(a))
+                t[e] = true;
+        }
+    }
+    return t[l];
+}
 ```
 
 #II
@@ -48,6 +67,7 @@ private List<String> wordBreak(String s, int[] dp, int end, Set<String> wordDict
 
 ##@2
 
+[Reference](http://www.cnblogs.com/springfor/p/3877056.html)
 ```
 public boolean wordBreakcheck(String s, Set<String> dict) {
     if(s==null || s.length()==0)
