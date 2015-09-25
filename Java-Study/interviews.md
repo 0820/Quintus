@@ -9,3 +9,6 @@
 [Morris traversal](http://www.cnblogs.com/AnnieKim/archive/2013/06/15/MorrisTraversal.html)
 ---------------------
 Inorder Tree Traversal without recursion and without stack!
+
+[Faster Deep Copies of Java Objects](http://javatechniques.com/blog/faster-deep-copies-of-java-objects/)
+----------------------
