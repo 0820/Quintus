@@ -12,3 +12,6 @@ Inorder Tree Traversal without recursion and without stack!
 
 [Faster Deep Copies of Java Objects](http://javatechniques.com/blog/faster-deep-copies-of-java-objects/)
 ----------------------
+
+[Detecting a Loop in Singly Linked List - Tortoise & Hare](http://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html)
+----------------------
