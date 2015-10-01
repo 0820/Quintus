@@ -16,5 +16,5 @@ Inorder Tree Traversal without recursion and without stack!
 [Detecting a Loop in Singly Linked List - Tortoise & Hare](http://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html)
 ----------------------
 
-[Bloom Filter](http://www.cnblogs.com/heaad/archive/2011/01/02/1924195.html)
+Bloom Filter [1](http://www.cnblogs.com/heaad/archive/2011/01/02/1924195.html) [2](http://blog.csdn.net/jiaomeng/article/details/1495500)
 --------------------
