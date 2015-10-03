@@ -22,3 +22,14 @@
   
   - 或者使用两个stack， 一个放元素，另一个放对应的最小值
   
+- Merge/Insert intervals I and II
+
+  Word break I and II
+  
+  Valid parenthese （what if the input string is a stram and it’s super long?)
+  
+  Binary Tree Iterator (pre + in)
+
+  Zigzag Iterator (N lists, cannot directly access by index)
+
+  Perfect square
