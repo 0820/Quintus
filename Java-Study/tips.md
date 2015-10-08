@@ -34,4 +34,4 @@
 
   Perfect square
 
-- 第二遍leetcode: 1, 125
+- 第二遍leetcode: 1, 125, 28
