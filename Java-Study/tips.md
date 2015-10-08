@@ -33,3 +33,5 @@
   Zigzag Iterator (N lists, cannot directly access by index)
 
   Perfect square
+
+- 第二遍leetcode: 1, 125
