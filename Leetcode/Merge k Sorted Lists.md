@@ -1,5 +1,7 @@
 ##@1
+O(nklogk) time, k is the number of lists, n is the length of each list.
 
+O(k) space due to heap
 ```
 static Comparator<ListNode> cmp = new Comparator<ListNode>() {
     public int compare(ListNode left, ListNode right) {
@@ -32,4 +34,4 @@ public ListNode mergeKLists(ListNode[] lists) {
 ```
 
 ##@2
-
+Divide and conquer, O(nklogk) time, O(1) space
