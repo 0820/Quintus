@@ -35,3 +35,5 @@ public ListNode mergeKLists(ListNode[] lists) {
 
 ##@2
 Divide and conquer, O(nklogk) time, O(1) space
+
+Works like merge sort, merge two lists at a time
