@@ -21,3 +21,6 @@ Bloom Filter [1](http://www.cnblogs.com/heaad/archive/2011/01/02/1924195.html) [
 
 [What is Autoboxing and Unboxing in Java – Example Tutorial and Corner cases](http://javarevisited.blogspot.com/2012/07/auto-boxing-and-unboxing-in-java-be.html)
 ------------------
+
+[Single Number General Version](https://leetcode.com/discuss/857/constant-space-solution?show=2542#a2542)
+-------------------
