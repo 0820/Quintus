@@ -14,3 +14,9 @@
 [Open Graph tags in facebook for developers](https://developers.facebook.com/docs/sharing/best-practices#tags)
 
 [Foundation](http://foundation.zurb.com/)
+
+[WAI-ARIA](https://www.w3.org/TR/wai-aria-primer/)
+
+[RDFa](https://rdfa.info/)
+
+[schema.org](https://schema.org/)
