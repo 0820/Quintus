@@ -20,3 +20,7 @@
 [RDFa](https://rdfa.info/)
 
 [schema.org](https://schema.org/)
+
+[Pure.CSS](http://purecss.io/)
+
+[Base](http://getbase.org/)
