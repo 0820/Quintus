@@ -24,3 +24,5 @@
 [Pure.CSS](http://purecss.io/)
 
 [Base](http://getbase.org/)
+
+[Font Squirrel](https://www.fontsquirrel.com/)
