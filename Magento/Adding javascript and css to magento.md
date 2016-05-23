@@ -30,3 +30,32 @@ There's second parameter that allow you to send.
 ```
 The type can be **js, js_css, skin_js, skin_css, link_rel** or **rss**
  
+Syntax for `params`
+```xml
+<action method="addItem">
+<type>skin_css</type>
+<name>below_ie7.css</name>
+<params />
+<if>lt IE 7</if>
+</action>
+```
+---
+There are `if` and `condition` parameters for `addItem`.
+You can use `condition` to create complicate configuration.
+Syntax is:
+```xml
+<action method="addItem">
+    <type>skin_css</type>
+    <name>custom.css</name>
+    <params />
+    <if />
+    <condition>this_custom_css_is_allowed</condition>
+</action>
+```
+```xml
+<reference name="head">
+    <action method="setThisCustomCssIsAllowed">
+        <flag>1</flag>
+    </action>
+</reference>
+ ```
