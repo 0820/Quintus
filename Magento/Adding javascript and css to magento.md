@@ -59,3 +59,8 @@ Syntax is:
     </action>
 </reference>
  ```
+
+---
+##Properly include css and js
+---
+[link](http://store.redstage.com/blog/2012/07/24/how-to-properly-include-custom-css-and-js-files-in-magento/)
