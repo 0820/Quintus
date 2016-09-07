@@ -1,3 +1,3 @@
 #CSS
 
-float elements are aligned to top.
+-Float elements are aligned to top.
