@@ -9,7 +9,8 @@
    
    theme.xml
    ```xml
-   <theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Config/etc/theme.xsd">
+   <theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Config/etc/theme.xsd">
       <title>New theme</title> <!-- your theme's name -->
       <parent>Magento/blank</parent> <!-- parent Vendor/theme or empty -->
       <media>
