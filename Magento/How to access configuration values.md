@@ -1,3 +1,5 @@
+###Magento 1
+
 To access the system config
 `Mage::getStoreConfig($path, [, $store]);`
 
