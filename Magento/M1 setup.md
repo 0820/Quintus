@@ -1,3 +1,3 @@
-##In __app/etc/__, add `local.xml`
+1.In __app/etc/__, add `local.xml`
 
-##In repo root, add `.htaccess`
+2.In repo root, add `.htaccess`
